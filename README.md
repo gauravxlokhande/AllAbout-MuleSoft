@@ -327,6 +327,13 @@ In this case, both `/items` and `/users` endpoints require an `Authorization` he
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/897e4bb1-9949-4af9-9c68-83d86670bd58)
 
 
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/91548d7e-1893-49a5-a9dd-17b8e5e7a0b2)
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/201a0a91-2aca-42c8-a3fa-66edcea04aed)
+
+change it Name in any method based on requirement: emailotp, mobileotp
+
+
+
 Yes, RAML includes several other components to help you define and structure your API efficiently. Besides `ResourceTypes` and `Traits`, here are a few other key components:
 
 1. **Schemas**:
