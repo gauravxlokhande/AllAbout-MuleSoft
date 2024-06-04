@@ -326,3 +326,79 @@ In this case, both `/items` and `/users` endpoints require an `Authorization` he
 
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/897e4bb1-9949-4af9-9c68-83d86670bd58)
 
+
+Yes, RAML includes several other components to help you define and structure your API efficiently. Besides `ResourceTypes` and `Traits`, here are a few other key components:
+
+1. **Schemas**:
+   - Define the structure of request and response bodies using schemas, often in JSON Schema or XML Schema format.
+   - Example:
+     ```yaml
+     schemas:
+       - Item: |
+           {
+             "$schema": "http://json-schema.org/draft-04/schema#",
+             "type": "object",
+             "properties": {
+               "id": { "type": "integer" },
+               "name": { "type": "string" }
+             }
+           }
+     ```
+
+2. **Security Schemes**:
+   - Define security schemes for authentication and authorization.
+   - Example:
+     ```yaml
+     securitySchemes:
+       oauth_2_0:
+         description: OAuth 2.0 authentication
+         type: OAuth 2.0
+         settings:
+           authorizationUri: https://example.com/oauth/authorize
+           accessTokenUri: https://example.com/oauth/token
+           authorizationGrants: [ code, token ]
+     ```
+
+3. **Documentation**:
+   - Add additional documentation for your API to provide context and usage instructions.
+   - Example:
+     ```yaml
+     documentation:
+       - title: Introduction
+         content: |
+           Welcome to the API documentation. This API allows you to manage items and users.
+     ```
+
+4. **Annotations**:
+   - Add custom metadata to your API definitions using annotations.
+   - Example:
+     ```yaml
+     annotationTypes:
+       deprecated:
+         type: boolean
+         description: Indicates if the resource or method is deprecated
+     /items:
+       get:
+         (deprecated): true
+         description: This endpoint is deprecated and will be removed in the future.
+     ```
+
+5. **Examples**:
+   - Provide example requests and responses to illustrate how the API should be used.
+   - Example:
+     ```yaml
+     /items:
+       get:
+         responses:
+           200:
+             body:
+               application/json:
+                 example: |
+                   [
+                     { "id": 1, "name": "Item 1" },
+                     { "id": 2, "name": "Item 2" }
+                   ]
+     ```
+
+These components help you create a comprehensive, reusable, and maintainable API definition in RAML.
+
