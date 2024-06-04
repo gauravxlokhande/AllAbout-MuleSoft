@@ -266,3 +266,11 @@ This README section should help users understand the structure and usage of your
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/42cba852-bf5c-4fd2-8caf-de61a1141b7c)
 
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/6a7f11ac-6419-43c9-b7de-f82a3d4da329)
+
+
+# Traits
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/1f632f3f-782c-4498-942e-7f16aa97bed3)
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/897e4bb1-9949-4af9-9c68-83d86670bd58)
+
