@@ -258,3 +258,11 @@ types:
   ```
 
 This README section should help users understand the structure and usage of your API, along with a clear example of how to make requests and what responses to expect.
+
+
+
+# ResourceType
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/42cba852-bf5c-4fd2-8caf-de61a1141b7c)
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/6a7f11ac-6419-43c9-b7de-f82a3d4da329)
