@@ -34,3 +34,26 @@ title: Hello world # required title
             example: # example how a response looks like
               message: "Hello world"
 ```
+
+```yaml
+#%RAML 1.0
+title: Hello World API # Title of the API
+
+/greeting: # Define a resource at the path /greeting
+  get: # HTTP GET method for the /greeting resource
+    description: Returns a greeting message # Description of the GET method
+    queryParameters: # Section to define query parameters
+      name: # Define a query parameter named 'name'
+        description: The name to include in the greeting message # Description of the 'name' query parameter
+        type: string # Data type of the 'name' parameter, which is a string
+        required: false # Indicates that the 'name' parameter is optional
+    responses: # Section to define the responses for the GET method
+      200: # HTTP status code for a successful response
+        body: # Define the body of the response
+          application/json: # Media type of the response body
+            type: object # Define the structure of the response body as an object
+            properties: # Properties of the response object
+              message: string # 'message' property of type string
+            example: # Example of a response
+              message: "Hello, world" # Example response message
+```
