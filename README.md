@@ -75,7 +75,7 @@ title: Hello World API # Title of the API
 
 #### Request
 - **Definition**: The data sent to the API by the client.
-- **Example**: Query parameters, headers, request body.
+- **Example**: Query parameters, headers, body, Uri Parameters.
 - **Purpose**: Provides input data for the API to process.
 
 #### Response
