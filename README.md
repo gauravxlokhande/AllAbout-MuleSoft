@@ -438,5 +438,5 @@ These components help you create a comprehensive, reusable, and maintainable API
 
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/a104a941-39bc-44da-97d0-621448b0ab24)
 
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/5584fa20-8a11-4a4d-b6e1-9b5d04c0434f)
 
-![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/4d50c894-ed27-45e2-bc8d-11a021d18192)
