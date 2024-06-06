@@ -11,3 +11,14 @@ for show in var
 ```
  attributes.queryParams.name
 ```
+
+## For Headers
+
+in api:
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/be9f7bf0-0afe-4ae9-9d49-85a4471debce)
+
+for show in var
+
+```
+attributes.headers.clientid
+```
