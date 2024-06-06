@@ -1,3 +1,8 @@
+```
+https://developer.mulesoft.com/tutorials-and-howtos/dataweave/how-to-retrieve-custom-headers-query-uri-parameters-dataweave/
+```
+
+
 # Get Input in Queryparams, header, body, uriparams.
 
 ## for Queryparams
