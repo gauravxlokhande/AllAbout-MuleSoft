@@ -27,3 +27,12 @@ for show in var
 ```
 attributes.headers.clientid
 ```
+
+## For Uriparams
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/00f7e5a0-072a-46e7-8c31-84ff3dce3045)
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/a6b420af-e5c1-4485-9cb0-98a20a53ad19)
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/5cc25fc8-a3f3-4dfb-b2c4-de2696873a97)
+
+
+
