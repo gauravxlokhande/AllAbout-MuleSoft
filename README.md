@@ -1,4 +1,4 @@
-Yes, you're mostly on the right track, but let's refine it a bit for clarity and accuracy:
+## Most Important To Know:
 
 1. **Create API Schema**: You can create the schema for your API using the Anypoint Platform on the Mulesoft website (https://anypoint.mulesoft.com/). This schema defines the structure of the data your API will accept and return.
 
