@@ -433,3 +433,10 @@ Yes, RAML includes several other components to help you define and structure you
 
 These components help you create a comprehensive, reusable, and maintainable API definition in RAML.
 
+
+# Access values from .properties file
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/a104a941-39bc-44da-97d0-621448b0ab24)
+
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/4d50c894-ed27-45e2-bc8d-11a021d18192)
