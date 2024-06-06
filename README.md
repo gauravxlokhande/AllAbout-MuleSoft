@@ -440,3 +440,4 @@ These components help you create a comprehensive, reusable, and maintainable API
 
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/5584fa20-8a11-4a4d-b6e1-9b5d04c0434f)
 
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/ebcdc33a-21e4-493b-9c33-f26966220845)
