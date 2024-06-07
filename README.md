@@ -1,3 +1,8 @@
+## To Practice
+```
+https://dataweave.mulesoft.com/learn/datawave
+```
+
 ## Most Important To Know:
 
 1. **Create API Schema**: You can create the schema for your API using the Anypoint Platform on the Mulesoft website (https://anypoint.mulesoft.com/). This schema defines the structure of the data your API will accept and return.
