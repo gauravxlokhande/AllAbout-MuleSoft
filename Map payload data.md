@@ -10,21 +10,25 @@
 
 
 
-Mup the arry inside objects inside array.
-we can use $ only for one loop.
+## map the arry inside objects inside array.
+## we can use $ only for one loop.
 
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/0e34c615-d81c-49ca-9bf0-5ab1d25da854)
 
 
-if we need to iterate over the multiple array in a object the we use:
+# if we need to iterate over the multiple array in a object the we use:
 
-``
+```
 payload map ((item, index) -> {	
 	"Name":item.Name,
 	"LastName":item.Lastname
 })
-``
+```
+
+
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/8bc5d5ef-96d8-4e4e-b92a-d55cd8337c12)
+
+
 
 
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/01220214-d9bb-4cc8-a372-612667cf5ec7)
