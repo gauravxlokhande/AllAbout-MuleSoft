@@ -1,0 +1,17 @@
+![Uploading image.png…]()
+
+
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/42b969eb-f729-4a88-a042-48eac503d581)
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/cf91b6c5-b2c4-4e8c-9bb7-b0c5075ff795)
+
+# Group By
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/0509b2eb-9382-4c60-8912-18dd6ca50d38)
+
+
+# Distinct By
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/5fbab578-dc03-417b-870f-ae918f818dc9)
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/80f64c4e-9040-46f8-b5b2-97aadfd1a15f)
+
+
