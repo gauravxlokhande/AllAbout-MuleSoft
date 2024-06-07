@@ -17,6 +17,7 @@ total values index
 
 # Keep Noted
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/df8c58c1-d0cd-4a3f-937b-a407213faa6d)
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/0e30a08f-8362-4396-931d-d3690b2bde82)
 
 
 
