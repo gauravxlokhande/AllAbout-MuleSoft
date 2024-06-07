@@ -1,6 +1,17 @@
 ![Uploading image.png…]()
 
+```
+%dw 2.0
+output application/json
 
+fun returnpassfalse(marks) =if(marks>30) "Pass"  else "Fail"
+
+---
+payload map ((item, index) -> {
+    "Name":item.Name,
+    "Result" :returnpassfalse(item.Marks)
+})
+```
 
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/42b969eb-f729-4a88-a042-48eac503d581)
 
