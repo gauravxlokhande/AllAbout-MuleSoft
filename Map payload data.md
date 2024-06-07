@@ -1,4 +1,6 @@
+## Note: On Array use map for mapping like [{},{}] and on object use mapobject for mapping like {{},{}}
 
+ 
 # Uses of $ 
 
 ## Single $
