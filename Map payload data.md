@@ -13,6 +13,9 @@ show only the keys
 total values index
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/dcdc876e-9cf5-4695-8f54-2da7b3d8d895)
 
+# Keep Noted
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/df8c58c1-d0cd-4a3f-937b-a407213faa6d)
+
 
 
 
