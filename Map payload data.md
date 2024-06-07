@@ -1,4 +1,20 @@
 
+# Uses of $ 
+
+## Single $
+for accessing the values
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/aadbed60-7fd3-413b-95de-3fe68bab68f9)
+
+## double $$
+show only the keys
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/39d6d485-17c7-4847-9433-6b8324e3427f)
+
+## one $ 
+total values index
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/dcdc876e-9cf5-4695-8f54-2da7b3d8d895)
+
+
+
 
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/00ccc9ea-4035-4112-83b4-12ade477d663)
 
