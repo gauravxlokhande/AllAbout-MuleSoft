@@ -9,7 +9,7 @@ for accessing the values
 show only the keys
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/39d6d485-17c7-4847-9433-6b8324e3427f)
 
-## one $ 
+## Triple $$$ 
 total values index
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/dcdc876e-9cf5-4695-8f54-2da7b3d8d895)
 
