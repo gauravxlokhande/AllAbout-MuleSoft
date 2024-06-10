@@ -24,3 +24,5 @@
 	}
 ]
 ```
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/dcc1a143-4107-4bab-8c01-b9dc200efe54)
+
