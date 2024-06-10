@@ -5,6 +5,7 @@
 
 ## To get Security token go to profile> Reset my security token
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/3eb17a25-18a6-47b9-a18e-b56dec6cf149)
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/7143d357-8405-45e1-bbe9-30c014359cdf)
 
 
 # Create Account Record
