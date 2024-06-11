@@ -1,4 +1,8 @@
 
+## CREATE
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/0eeec338-17d6-4380-9134-5a641ef4d83b)
+
+
 ## UPSERT
 ### in upsert important is external id field (Always required)  and also remember create query update upsert always take list of objects as input so dont forgot [{},{}]
 ![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/28ac6ee3-5ff4-442c-b3b4-890485b9ca60)
