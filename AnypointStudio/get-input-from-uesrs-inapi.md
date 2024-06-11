@@ -1,0 +1,38 @@
+```
+https://developer.mulesoft.com/tutorials-and-howtos/dataweave/how-to-retrieve-custom-headers-query-uri-parameters-dataweave/
+```
+
+
+# Get Input in Queryparams, header, body, uriparams.
+
+## for Queryparams
+
+in api:
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/fc47cd97-6cae-4201-9bcd-bcee25bba7e4)
+```
+http://localhost:8081/gaurav?name=Kaushal
+```
+for show in var
+```
+ attributes.queryParams.name
+```
+
+## For Headers
+
+in api:
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/be9f7bf0-0afe-4ae9-9d49-85a4471debce)
+
+for show in var
+
+```
+attributes.headers.clientid
+```
+
+## For Uriparams
+
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/00f7e5a0-072a-46e7-8c31-84ff3dce3045)
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/a6b420af-e5c1-4485-9cb0-98a20a53ad19)
+![image](https://github.com/gauravxlokhande/AllAbout-MuleSoft/assets/119065314/5cc25fc8-a3f3-4dfb-b2c4-de2696873a97)
+
+
+
