@@ -8,5 +8,5 @@
 
 ## Note4: massage transform is itself a payload.
 
-## Note5: 
+## Note5: Remember we can create a file for store variables values and all test.properties in src/main/resources but to access it we need to add it in global elements/create/ global configuration/ configuration properties and add this test.properties file
 
