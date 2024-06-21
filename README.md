@@ -10,3 +10,12 @@
 
 ## Note5: Remember we can create a file for store variables values and all test.properties in src/main/resources but to access it we need to add it in global elements/create/ global configuration/ configuration properties and add this test.properties file
 
+1. **Anypoint Design Center (Online Platform):**
+   - **API Design:** It is used for designing APIs visually, defining data models, configuring endpoints, and creating API specifications (like RAML or OpenAPI).
+   - **API Documentation:** It helps in generating and managing API documentation, including specifying request and response payloads to illustrate how APIs work.
+   - **API Mocking:** It can generate mock APIs to simulate API behavior and test integrations without accessing real backend systems.
+
+2. **Anypoint Studio (Desktop IDE):**
+   - **Integration Development:** Anypoint Studio is used for actual integration development. Developers use it to build APIs and integrations using drag-and-drop components, connectors, and visual tools.
+   - **Data Mapping and Transformation:** It includes tools for mapping data between different formats, transforming data, and applying business logic within integration flows.
+   - **Testing and Debugging:** Anypoint Studio provides capabilities for testing integrations locally, debugging issues, and ensuring the functionality of APIs before deployment.
